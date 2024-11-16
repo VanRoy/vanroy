@@ -8,7 +8,7 @@ Hi! I'm Julien Roy, a **Software Engineer** and **Software Architect**. I really
 
 My personal rule for design valid solution : 
 
-> Technologies no matters, only the right tool for the right job.
+> Technology no matter, only the right tool for the right job.
 
 
 ### Talks
