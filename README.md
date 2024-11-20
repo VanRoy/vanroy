@@ -13,7 +13,7 @@ My personal rule for design valid solution :
 
 ### Talks
 
-- 🚀 [Scaling Java, To Infinity And Beyound ](https://github.com/VanRoy/to-infinity-and-beyond) [[Slide](https://vanroy.github.io/to-infinity-and-beyond/)] [[Video](https://youtu.be/gu40h1A_IXw)]
+- 🚀 [Scaling Java, To Infinity And Beyond ](https://github.com/VanRoy/to-infinity-and-beyond) [[Slide](https://vanroy.github.io/to-infinity-and-beyond/)] [[Video](https://youtu.be/gu40h1A_IXw)]
 
 - 👮‍♂️ [Validez les opérations en bases de données de votre application avec style](https://github.com/VanRoy/talk-assertj-db) [[Slide](https://vanroy.github.io/talk-assertj-db/)]
 
